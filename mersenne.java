@@ -2,7 +2,7 @@ import java.util.*;
 
 // Число Мерсе́нна — число вида {\displaystyle M_{n}=2^{n}-1}M_{n}=2^{n}-1
 // найдите число по мощности числа (2^n -1) и проверьте, является ли число простым числом
-// Сложности
+// Сложности: O(nlogn)
 class Mersenne
 {
 	public static void main(String[] arg)
